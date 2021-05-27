@@ -1,0 +1,39 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    float: none;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+  .copy_right_footer{
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    position: fixed;
+    background-color: violet;
+    color: white;
+    text-align: center;
+  }
+  canvas{
+    border-radius: 20px;
+    border: solid 10px violet;
+    box-shadow:5px 5px 5px grey;
+    margin-top: 110px;
+  }
+ 
